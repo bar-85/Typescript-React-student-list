@@ -66,7 +66,7 @@ function App() {
 			<img src={backImg} alt='back img' className='imgBack' />
 			<div className='App'>
 				<div>
-					<h2>Add tasks</h2>
+					<h2>Add task</h2>
 					<form onSubmit={handleSubmit}>
 						<input type='text' onChange={onChangeFunc} className='input' value={inputValue} />
 						<input type='submit' value='Add' className='button' />
