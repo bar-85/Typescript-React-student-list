@@ -22,23 +22,19 @@ Stronę można zobaczyć pod adresem: https://student-list-react.netlify.app/
 <br />
 <br />
 
-![1111](https://user-images.githubusercontent.com/105555319/213000154-41c48246-f34c-43a4-a6e6-a1bd000d7aa4.jpg)
+![1122](https://user-images.githubusercontent.com/105555319/213005012-cd4434ee-680d-41e8-ab99-bf07731ef037.jpg)
 <br />
 <br />
-![2222](https://user-images.githubusercontent.com/105555319/213000192-7395b445-a2fa-406c-960c-3aebd5c2aa92.jpg)
+![2233](https://user-images.githubusercontent.com/105555319/213005039-315796a7-050b-4fd1-b789-f06823b4900a.jpg)
 <br />
 <br />
-![444](https://user-images.githubusercontent.com/105555319/213000298-22b0dff8-7946-417e-abfb-067d97dbc1d0.jpg)
+![3344](https://user-images.githubusercontent.com/105555319/213005077-ef495731-fa85-40c8-90ad-3ea39e47e3c0.jpg)
 <br />
 <br />
-![5555](https://user-images.githubusercontent.com/105555319/213000335-5a443686-36a9-4abe-bd02-079fd35fafa0.jpg)
+![5566](https://user-images.githubusercontent.com/105555319/213005105-4d1766f2-af07-456b-8ff1-3c4623211316.jpg)
 <br />
 <br />
-![7777](https://user-images.githubusercontent.com/105555319/213000369-526d9890-6df8-48ca-8d02-8efa14a30093.jpg)
-
-
-
-
+![6677](https://user-images.githubusercontent.com/105555319/213005137-be7a6e04-49cb-40dd-a9f2-d87f06ea04a8.jpg)
 
 
 
