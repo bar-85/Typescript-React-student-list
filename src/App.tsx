@@ -81,9 +81,17 @@ function App() {
 						/>
 					</div>
 					<div>
-						<button onClick={() => setDisplayMode('all')}>All</button>
-						<button onClick={() => setDisplayMode('active')}>Active</button>
-						<button onClick={() => setDisplayMode('completed')}>Completed</button>
+						<div>
+							<button className={displayMode === 'all' ? 'active' : ''} onClick={() => setDisplayMode('all')}>
+								All
+							</button>
+							<button className={displayMode === 'active' ? 'active' : ''} onClick={() => setDisplayMode('active')}>
+								Active
+							</button>
+							<button className={displayMode === 'completed' ? 'active' : ''} onClick={() => setDisplayMode('completed')}>
+								Completed
+							</button>
+						</div>
 					</div>
 					<ul className='todoList'>
 						{todos

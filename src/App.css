@@ -44,6 +44,11 @@ button:hover {
 	background-color: rgb(245, 238, 251);
 }
 
+button.active {
+    background-color: rgb(245, 238, 251);
+}
+
+
 .todoList {
 	margin-top: 2.5rem;
 }
