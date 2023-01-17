@@ -1,3 +1,46 @@
+<h1 align="center"> React/TypeScript - Student List </h >
+<br />
+<br />
+<h2 align="left"> Responsywna strona internetowa: </h2>
+* Dodaj
+<br />
+* Edytuj
+<br />
+* Usuń
+<br />
+* Szukaj
+<br />
+* Sortuj
+<br />
+<br />
+Stronę można zobaczyć pod adresem: https://student-list-react.netlify.app/
+<br />
+<h3 align="left"> Technologie: </h3>
+* TypeScript / React (Hooks)
+<br />
+* CSS
+<br />
+<br />
+
+![11](https://user-images.githubusercontent.com/105555319/212997413-5e2d16cf-7098-481e-ae8e-ccefdb5f2e18.jpg)
+<br />
+<br />
+![333](https://user-images.githubusercontent.com/105555319/212997457-059841c0-e04d-448a-b8ec-abcb97c4f119.jpg)
+<br />
+<br />
+![44](https://user-images.githubusercontent.com/105555319/212997491-0eff7731-e39a-4de8-927e-059960392d7e.jpg)
+<br />
+<br />
+![55](https://user-images.githubusercontent.com/105555319/212997530-0bccd075-7f91-465c-93d6-b96d0e934198.jpg)
+<br />
+<br />
+![33](https://user-images.githubusercontent.com/105555319/212997564-1be8dfa6-fa71-421c-9a8d-7fa2ee42baca.jpg)
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
